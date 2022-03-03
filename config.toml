@@ -15,4 +15,5 @@ home = [ "HTML", "RSS", "JSON"]
   disableBreadcrumb = false
   themeVariant = "blue"
   disableLandingPageButton = true
+  disableNextPrev = true
 
