@@ -7,7 +7,7 @@ theme = 'hugo-theme-learn'
 home = [ "HTML", "RSS", "JSON"]
 
 [params]
-  editURL = "https://github.com/mateimicu/tw/tree/main/content"
+  editURL = "https://github.com/mateimicu/tw/tree/main/content/"
   author = "Micu Matei-Marius"
   description = "TW"
   showVisitedLinks = true
