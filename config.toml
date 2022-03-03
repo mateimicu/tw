@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mateimicu.github.io/tw/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'TW'
 theme = 'hugo-theme-learn'
