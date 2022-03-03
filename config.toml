@@ -7,14 +7,10 @@ theme = 'hugo-theme-learn'
 home = [ "HTML", "RSS", "JSON"]
 
 [params]
-  editURL = "https://github.com/mateimicu/tw/content/"
+  editURL = "https://github.com/mateimicu/tw/tree/main/content"
   author = "Micu Matei-Marius"
   description = "TW"
   showVisitedLinks = true
   disableSearch = false
   disableBreadcrumb = false
   themeVariant = "blue"
-
-[Lanugages]
-landingPageName = "<i class='fas fa-home'></i> Home"
-
