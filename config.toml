@@ -2,3 +2,19 @@ baseURL = 'https://mateimicu.github.io/tw/'
 languageCode = 'en-us'
 title = 'TW'
 theme = 'hugo-theme-learn'
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  editURL = "https://github.com/mateimicu/tw/content/"
+  author = "Micu Matei-Marius"
+  description = "TW"
+  showVisitedLinks = true
+  disableSearch = false
+  disableBreadcrumb = false
+  themeVariant = "blue"
+
+[Lanugages]
+landingPageName = "<i class='fas fa-home'></i> Home"
+
