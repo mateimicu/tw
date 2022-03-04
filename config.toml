@@ -16,4 +16,5 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "blue"
   disableLandingPageButton = true
   disableNextPrev = true
+  labOne = "prezentare_mmicu_01.pdf"
 
