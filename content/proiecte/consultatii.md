@@ -13,5 +13,5 @@ Consultatiile **nu sunt obligatorii**. Daca doriti sa participati:
 3. verificati link-ul de mai jos in ce slot de timp trebuie sa fiti prezenti. Respectati slot-ul de timp alocal din respect pentru colegi vostri
 
 
-* [Programari consultatii (In constructie)](TBD)
-* [Meeting link pentru consultatii (In constructie)](TBD)
+* [Programari consultatii ](https://docs.google.com/spreadsheets/d/e/2PACX-1vSUxZv_-17i4tvrbhE2eMabPWtnvleXiog9oFx15CU07mhccgGhJE1n_TMSckl1Mye1alvNBONclurZ/pubhtml?gid=1781257101&single=true)
+* [Meeting link pentru consultatii](https://meet.google.com/hhf-uasq-esf)
