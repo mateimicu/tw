@@ -11,3 +11,6 @@ Formula pentru inscriere: [form](https://docs.google.com/forms/d/e/1FAIpQLSdfTRh
 
 
 Daca aveti un repository privat, adaugati acces pentru `mateimicu` - [GitHub](https://github.com/mateimicu)
+
+[Rezultate Evaluare I](https://docs.google.com/spreadsheets/d/e/2PACX-1vSUxZv_-17i4tvrbhE2eMabPWtnvleXiog9oFx15CU07mhccgGhJE1n_TMSckl1Mye1alvNBONclurZ/pubhtml?gid=2020024885&single=true)
+Nu toate persoanele din echopa vor primi punctajul maxim (cel de mai sus). Daca nu sa muncit in echipa acest lucru se va penaliza.
