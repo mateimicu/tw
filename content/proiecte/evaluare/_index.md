@@ -4,6 +4,9 @@ date: 2022-03-03T21:46:18+02:00
 draft: false
 ---
 
+# Componenta S
+
+TBD
 
 # Componenta I
 
@@ -41,3 +44,4 @@ Pe partea de backend:
 * cum stocati datele (orice design / considerare speciala pe partea de storage)
 
 Daca sunteti o echipa nu uitati ca vom evaluare implicarea fiecarui membru.
+
