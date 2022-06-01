@@ -4,21 +4,20 @@ date: 2022-03-03T21:46:18+02:00
 draft: false
 ---
 
-Deadline pentru componenta S: (inca nu este program, cel mai probabil in saptamana 3 de sesiune)
+Deadline pentru componenta I: TBD
 
 
-Formula pentru inscriere: [form]()
+Formula pentru inscriere: [form](https://docs.google.com/forms/d/e/1FAIpQLSdb81MU6nads138UFDmyvK1tdOLULHit8bplw4ZO8jSpzM-Dg/viewform).
+Puteti valida daca link-ul este corect verificati [aici](https://docs.google.com/spreadsheets/d/e/2PACX-1vSUxZv_-17i4tvrbhE2eMabPWtnvleXiog9oFx15CU07mhccgGhJE1n_TMSckl1Mye1alvNBONclurZ/pubhtml?gid=377285706&single=true)
 
-Informatii utile:
+Permiteti accesul urmatoarelor conturi:
 
-* Daca ati fost inscrisi la evaluare I sunteti automati inscrisi si la evaluarea S
-* Daca aveti un repository privat, adaugati acces pentru `mateimicu` - [GitHub](https://github.com/mateimicu)
-* Fiecare grupa va avea un slot de timp alocat pentru a prezenta. Va
-* Nu toate persoanele din echipa vor primi punctajul maxim (cel de mai sus). Daca contributiile nu sunt aproximativ egale atunci se poate depuncta.
-* Se va putea re-evalua si componenta I daca ati picat.
-* Criteriile de evaluare a componentei S le puteti vedea pe [pagina cursului])https://profs.info.uaic.ro/~busaco/teach/courses/web/web-projects.html)
-* Metoda completa de evaluare a materiei se poate vedea pe [pagina dedicata a cursului](https://profs.info.uaic.ro/~busaco/teach/courses/web/web-exam.html)
-* O alta prezentare a criteriilor de evaluare pentru componenta S se poate vedea [aici](/tw/proiecte/evaluare/)/tw/proiecte/evaluare/
+* [gordins](https://github.com/gordins)
+* [mateimicu](https://github.com/mateimicu)
 
-[Programari evaluare S]()
-[Rezultate Evaluare S]()
+Daca doriti sa prezentati inainte de termen (pentru punctul bonus) ultima sansa este in saptamana 14 (30.05.2022 - 5.06.2022).
+
+
+[Rezultate Evaluare S](TBD)
+
+

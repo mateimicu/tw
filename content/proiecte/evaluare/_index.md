@@ -6,7 +6,24 @@ draft: false
 
 # Componenta S
 
-TBD
+Criteriile de evaluare detaliate se afla [aici](https://profs.info.uaic.ro/~busaco/teach/courses/web/web-projects.html#projects)
+
+
+### O lista orientativa cu criterii de evaluare
+
+* lucru in echipa
+* exportul de date
+* modulul de administrare
+* arhitectura aplicatie (MVC spre exemplu)
+* arhitectura aplicatiei de front-end
+* arhitectura datelor
+* functionalitati potrivite pentru proiect (ne asteptam ca cele din enunt sa fie toate, dar se puncteaza functionalitatile interesante)
+* testarea
+* documentatia
+* securitatea
+* folosirea paradigmelor de programare interesante
+* maturitatea solutiei
+
 
 # Componenta I
 
