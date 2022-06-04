@@ -4,7 +4,7 @@ date: 2022-03-03T21:46:18+02:00
 draft: false
 ---
 
-Deadline pentru componenta I: TBD
+[Programari evaluare componenta S](https://docs.google.com/spreadsheets/d/e/2PACX-1vSUxZv_-17i4tvrbhE2eMabPWtnvleXiog9oFx15CU07mhccgGhJE1n_TMSckl1Mye1alvNBONclurZ/pubhtml?gid=93114876&single=true)
 
 
 Formula pentru inscriere: [form](https://docs.google.com/forms/d/e/1FAIpQLSdb81MU6nads138UFDmyvK1tdOLULHit8bplw4ZO8jSpzM-Dg/viewform).
@@ -18,6 +18,6 @@ Permiteti accesul urmatoarelor conturi:
 Daca doriti sa prezentati inainte de termen (pentru punctul bonus) ultima sansa este in saptamana 14 (30.05.2022 - 5.06.2022).
 
 
-[Rezultate Evaluare S](TBD)
+[Rezultate Evaluare S](https://docs.google.com/spreadsheets/d/e/2PACX-1vSUxZv_-17i4tvrbhE2eMabPWtnvleXiog9oFx15CU07mhccgGhJE1n_TMSckl1Mye1alvNBONclurZ/pubhtml?gid=1085312090&single=true)
 
 
